@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @husarcik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in radiology and medical education.
+- 🌱 I’m currently learning how to speed up my coding workflow.
 - 💞️ I’m looking to collaborate on tutoring systems, mainly spaced repetition.
-- 📫 How to reach me ...
+- 📫 You can reach me on Twitter @husarcik.
 
 <!---
 husarcik/husarcik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
