@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husarcik
+- 👋 Hi, I’m Eddie
 - 👀 I’m interested in radiology and medical education.
 - 🌱 I’m currently learning how to speed up my coding workflow.
 - 💞️ I’m looking to collaborate on tutoring systems, mainly spaced repetition.
