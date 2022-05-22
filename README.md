@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eddie! It is very nice to meet you. 
+- 👋 Hi, I’m Eddie a diagnostic radiology resident! It is very nice to meet you. 
 - 👀 I’m interested in radiology and medical education.
-- 🌱 I’m currently learning how to speed up my coding workflow.
+- 🌱 I’m currently learning how to speed up my coding workflow with CI/CD and learn more about e2e/unit testing.
 - 💞️ I’m looking to collaborate on tutoring systems, mainly spaced repetition.
 - 📫 You can reach me on Twitter @husarcik.
 
